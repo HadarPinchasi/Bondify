@@ -6,7 +6,7 @@ function LogIn() {
     return (
         < div className="container text-center" >
             <div className="row">
-                <LeftLogo description='Connect with your friends' subDescription='' />
+                <LeftLogo description='Linking People, Creating Bonds' subDescription='' />
                 <RightScreen />
             </div>
         </div >
