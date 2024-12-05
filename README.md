@@ -65,9 +65,10 @@ Foobar is a web application built as part of a comprehensive project to explore 
    ```bash
    g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp
 
-  - To run:
+- To run:
    ```bash
    ./a.out
+
 4. Start the development server:
    Navigate to the backend directory and run the command:
    ```bash
