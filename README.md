@@ -83,5 +83,9 @@ The project is built with multiple layers to ensure a modular approach:
 - Backend Server provides API endpoints and connects to MongoDB for persistent data.
 - Web Application lets users interact with FOOBAR from any browser.
 
+---
+For your own comfort: you can download these databases to your mongodb and log in as one of the users.
+
+
 
 
