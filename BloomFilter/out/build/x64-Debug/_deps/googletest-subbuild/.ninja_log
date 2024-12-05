@@ -1,0 +1,21 @@
+# ninja log v5
+2191	2253	7267565877646011	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f830695500f47307
+3	77	7267565855888001	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	40289d5691733916
+1989	2050	7267565875605640	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	19d702db569f6f41
+3	77	7267565855888001	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	40289d5691733916
+78	1987	7267565874982403	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a38157462e4a8a6
+2398	2507	7267565880173281	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8131c9d73b2521d6
+78	1987	7267565874982403	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a38157462e4a8a6
+1989	2050	7267565875605640	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	19d702db569f6f41
+2050	2113	7267565876243444	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	73b205c7d8f64810
+2050	2113	7267565876243444	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	73b205c7d8f64810
+2113	2191	7267565877026421	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	288313ba48974502
+2398	2507	7267565880173281	CMakeFiles/googletest-populate-complete	8131c9d73b2521d6
+2113	2191	7267565877026421	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	288313ba48974502
+2191	2253	7267565877646011	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f830695500f47307
+2253	2317	7267565878275194	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9f90828997dece8d
+2253	2317	7267565878275194	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	9f90828997dece8d
+2317	2398	7267565879073971	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	ca64241627f881b8
+2398	2507	7267565880173281	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8131c9d73b2521d6
+2317	2398	7267565879073971	C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	ca64241627f881b8
+2398	2507	7267565880173281	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8131c9d73b2521d6

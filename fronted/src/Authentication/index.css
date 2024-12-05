@@ -1,0 +1,101 @@
+:root {
+    --body-background-color: #f0f2f5;
+}
+
+body {
+    background-color: var(--body-background-color);
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#startButton {
+    /*  background-color: #6f42c1;
+    color: white;*/
+    border: 1px solid #6f42c1;
+    transition: background-color 0.3s;
+    font-size: 19px;
+    font-weight: 650;
+    font-family: 'Arial', sans-serif;
+    border-radius: 6px;
+}
+
+  /*  button:hover {
+        background-color: #4b2a7d;
+    }*/
+
+.logo {
+    margin-left: 10px;
+    margin-right:120px;
+}
+
+    .logo li {
+        font-family: 'Arial', sans-serif;
+        text-align: left;
+    }
+
+        .logo li:nth-child(1) {
+            color:blue;
+            font-size: 70px;
+            font-weight: 650;
+        }
+
+        .logo li:nth-child(2) {
+            color: black;
+            font-size: 28px;
+        }
+
+body {
+/*    display: flex;
+*/    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.loginScreen {
+    background-color: white;
+    height: 350px;
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+   
+}
+
+    .loginScreen input, .loginScreen button {
+        margin: 15px 0;
+        margin-bottom: 5px;
+        width: 340px;
+        height: 50px;
+    }
+
+#danger-btn {
+    background-color: #42b72a;
+    border: 1px solid #42b72a;
+    transition: background-color 0.3s;
+    width: 200px;
+}
+
+    #danger-btn:hover {
+        background-color: #36821f;
+    }
+
+
+.SignUpScreen {
+    background-color: white;
+   max-width: 700px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+    padding: 7px;
+}
+
+#openingScreen {
+    margin-top: 150px;
+}

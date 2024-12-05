@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <input>  first name<br>
+    <input>  last name<br>
+    <input>  content<br>
+    <button onclick="create()">Add</button>
+    <button onclick="getAll()">Get All Articles</button><br>
+    <input><button onclick="get()">Get One</button><br>
+    <button onclick="update()">Update</button><br>
+    <button onclick="del()">delete</button><br>
+    <script>
+        async function getAll() {
+            const articles = await fetch('http://localhost:12345/articles').then(data => data.json())
+            console.log(articles);
+        }
+        async function get() {
+            const articles = await fetch('http://localhost:12345/articles/' + document.getElementsByTagName('input')[1].value).then(data => data.json())
+            console.log(articles);
+        }
+        async function create() {
+            const data = await fetch('http://localhost:12345/articles', {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    firstName: document.getElementsByTagName('input')[0].value,
+                    lastName: document.getElementsByTagName('input')[1].value,
+                    content: document.getElementsByTagName('input')[2].value
+                })
+            })
+            articles = await data.json()
+            console.log(articles);
+        }
+
+        async function update() {
+            const articles = await fetch('http://localhost:12345/articles/' + document.getElementsByTagName('input')[1].value, {
+                method: "PATCH",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({ title: document.getElementsByTagName('input')[0].value })
+            }).then(data => data.json())
+            console.log(articles);
+        }
+        async function del() {
+            const articles = await fetch('http://localhost:12345/articles/' + document.getElementsByTagName('input')[1].value, {
+                method: "DELETE",
+            }).then(data => data.json())
+            console.log(articles);
+        }
+
+    </script>
+</body>
+</html>

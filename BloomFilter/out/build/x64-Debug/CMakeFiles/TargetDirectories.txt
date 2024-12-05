@@ -1,0 +1,4 @@
+C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CMakeFiles/ProjectTests.dir
+C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

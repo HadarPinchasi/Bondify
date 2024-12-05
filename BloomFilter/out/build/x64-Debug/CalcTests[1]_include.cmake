@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CalcTests[1]_tests.cmake")
+  include("C:/Users/owner/source/repos/HadarPinchasi/FOOBAR/out/build/x64-Debug/CalcTests[1]_tests.cmake")
+else()
+  add_test(CalcTests_NOT_BUILT CalcTests_NOT_BUILT)
+endif()
