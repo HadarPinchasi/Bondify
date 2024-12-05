@@ -60,8 +60,8 @@ Foobar is a web application built as part of a comprehensive project to explore 
 3. First, make the tcp server work.
    navigate to the BloomFilter directory and run the commands:
    for compile :
-    '''bash
-    'g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp'
+   '''bash
+   'g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp'
    for run:
    '''bash
-    ./a.out
+   ./a.out
