@@ -59,15 +59,13 @@ Foobar is a web application built as part of a comprehensive project to explore 
    ```bash
    npm install
 3.  First, make the TCP server work.
-   Navigate to the BloomFilter directory and run the following commands:
-   To compile and run:
+   Navigate to the BloomFilter directory and run the following commands for compile and run:
    ```bash
    g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp
    ./a.out
-
 4. Start the development server:
    Navigate to the backend directory and run the command:
-   '''bash
+   ```bash
    npm start
 
 5. in your browser (no matter if chrome/ any other explorer) write 'localhost12345' and enjoy.
