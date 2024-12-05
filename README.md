@@ -90,15 +90,15 @@ The project is built with multiple layers to ensure a modular approach:
 ![image](https://github.com/user-attachments/assets/b6d6ed40-89d2-492b-a99c-a1e781733865)
 - if you don't have an account you can sign up
 ![image](https://github.com/user-attachments/assets/70d48f54-b234-4628-9a4b-6f43a455d1bf)
--after log in, you can see the feed and posts of your friends.
+- after log in, you can see the feed and posts of your friends.
 ![image](https://github.com/user-attachments/assets/bb780549-3fd9-4388-8eea-99ab1dd9bc93)
--pay attention! you can not post malicious links
+- pay attention! you can not post malicious links
 ![image](https://github.com/user-attachments/assets/93a6c896-b2e5-46b9-a7e5-140e57e0db07)
--you can see your own posts/your friend's posts in your own page by clickn on your name/your friend's name
+- you can see your own posts/your friend's posts in your own page by clickn on your name/your friend's name
 ![image](https://github.com/user-attachments/assets/7aebf5b6-fc21-4c1c-af60-3ab7370999b2)
 - you can approve and send friend's request
 ![image](https://github.com/user-attachments/assets/0bfd8730-465b-4dcc-b0cf-ef4397c582a5)
--you can edit/ delete your posts
+- you can edit/ delete your posts
 ![image](https://github.com/user-attachments/assets/8a98a21b-e12b-4563-86d2-25058165a1b6)
 We’ve got even more features waiting for you! Dive into our website to explore and enjoy the full experience!
 
