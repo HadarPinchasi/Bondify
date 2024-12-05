@@ -52,6 +52,12 @@ Foobar is a web application built as part of a comprehensive project to explore 
 ### **Setup**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/Foobar.git
+   git clone https://github.com/your-repo/Bondify.git
    cd Bondify
-   ''' 
+2. Install dependencies:
+   '''bash
+   npm install
+3. First, make the tcp server work.
+   navigate to the BloomFilter directory and run the commands:
+   for conpile :  '''bash 'g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp'
+   for run: '''bash ./a.out
