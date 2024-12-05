@@ -72,6 +72,7 @@ Foobar is a web application built as part of a comprehensive project to explore 
    Navigate to the backend directory and run the command:
    ```bash
    npm start
+
 5. in your browser (no matter if chrome/ any other explorer) write 'localhost12345' and enjoy.
 ---
 ## **Project Structure**  
