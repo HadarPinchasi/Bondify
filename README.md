@@ -12,3 +12,7 @@ Welcome to **Bondify**, a cutting-edge social network designed to connect friend
 7. [Contributing](#contributing)  
 
 ---
+## **About the Project**  
+Foobar is a web application built as part of a comprehensive project to explore and implement advanced software development concepts, including a backend server that manages all user requests. From creating a user-friendly interface inspired by Facebook's iconic design to building a high-performance Bloom Filter system for URL filtering, this app is packed with exciting features.
+
+---
