@@ -7,11 +7,8 @@ Welcome to **Bondify**, a cutting-edge social network designed to connect friend
 ## Table of Contents  
 1. [About the Project](#about-the-project)
 2. [Technologies Used](#technologies-used)  
-3. [Features](#features)  
-4. [How It Works](#how-it-works)  
-5. [Getting Started](#getting-started)  
-6. [Future Enhancements](#future-enhancements)  
-7. [Contributing](#contributing)  
+3. [Features](#features)    
+4. [Getting Started](#getting-started)
 
 ---
 ## About the Project
@@ -25,7 +22,6 @@ Foobar is a web application built as part of a comprehensive project to explore 
 - Testing: Jest, React Testing Library
   
 ---
-
 ## Features
 ### 🔐 **Sign Up & Log In**
 - **Sign Up**: New here? Create an account by entering a username and password. Fill out the required fields and you're ready to go!
@@ -45,3 +41,17 @@ Foobar is a web application built as part of a comprehensive project to explore 
 - **Edit Name**: Change your account name to something new.
 - **Edit Profile Picture**: Update your profile picture to reflect your personality.
 - **Delete Account**: Permanently delete your account if you no longer wish to use the platform.
+  
+---
+## **Getting Started**  
+### **Prerequisites**  
+### **Prerequisites**  
+- Node.js 
+- NPM or Yarn  
+- MongoDB 
+### **Setup**  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-repo/Foobar.git
+   cd Bondify
+   ''' 
