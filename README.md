@@ -9,6 +9,7 @@ Welcome to **Bondify**, a cutting-edge social network designed to connect friend
 2. [Technologies Used](#technologies-used)  
 3. [Features](#features)    
 4. [Getting Started](#getting-started)
+5. [Project Structure](#project-structure)
 
 ---
 ## About the Project
@@ -57,15 +58,29 @@ Foobar is a web application built as part of a comprehensive project to explore 
 2. Install dependencies:
    '''bash
    npm install
-3. 3. First, make the TCP server work.
+3.  First, make the TCP server work.
    Navigate to the BloomFilter directory and run the following commands:
 
    - To compile:
    ```bash
    g++ tcp.cpp -pthread App.cpp AddUrl.cpp CheckUrl.cpp BloomFilter.cpp H1.cpp H2.cpp IHash.cpp
 
-   - To run:
+  - To run:
    ```bash
    ./a.out
-   
+4. Start the development server:
+   Navigate to the backend directory and run the command:
+   ```bash
+   npm start
+5. in your browser (no matter if chrome/ any other explorer) write 'localhost12345' and enjoy.
+---
+## **Project Structure**  
+
+The project is built with multiple layers to ensure a modular approach:
+
+- TCP Server handles communication and security via the Bloom Filter.
+- Backend Server provides API endpoints and connects to MongoDB for persistent data.
+- Web Application lets users interact with FOOBAR from any browser.
+
+
 
